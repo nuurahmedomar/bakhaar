@@ -1,0 +1,1 @@
+This basic full stack mearn project about Bakhaar , and Bakhaar is stored our products such us electronics and something like and it have crud functionality  and help us to stream line our bakhar activities .
